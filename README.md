@@ -4,10 +4,6 @@ Use this repo to pull the commands needed to enable ssh on kali linux image
 ## Pre-requisites
 - Please make sure you have console access to the Kali linux OCI image
 
-
----> I might need to cut a release so I can download it 
---->
-
 ## STEPS
 1. wget 
 
