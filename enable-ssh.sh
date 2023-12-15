@@ -15,7 +15,7 @@ sudo apt install ssh -y # accept the defaults
 sudo service ssh start
 sudo systemctl start rescue-ssh.target
 
-sudo apt-get install ssh -y # accept the defaults
+sudo apt install ssh -y # accept the defaults
 sudo service ssh start
 sudo update-rc.d -f ssh remove
 sudo update-rc.d -f ssh defaults
