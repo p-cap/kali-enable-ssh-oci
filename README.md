@@ -1,4 +1,4 @@
-# kali-enable-ssh-oci
+# Enable SSH and RDP for Kali OCI instance
 Use this repo to pull the commands needed to enable ssh on kali linux image in Oracle Cloud Infrasatructure (OCI). The documentation for the OCI image by default does not have the ssh enabled. For more info, refer to the kali documentation for the oci image. 
 
 ## Pre-requisites
